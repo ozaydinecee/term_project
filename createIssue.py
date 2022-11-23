@@ -4,7 +4,7 @@ import json
 
 url = "https://termproject.atlassian.net/rest/api/2/issue"
 
-auth = HTTPBasicAuth("ozaydine@mef.edu.tr", "q7Ia3tp6AzOaoV6235SeB6CC")
+auth = HTTPBasicAuth("ozaydine@mef.edu.tr", "Wjs8qOB4SKSoZyDp0dax400A")
 
 headers = {
     "Accept": "application/json",
